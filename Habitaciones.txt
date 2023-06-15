@@ -1,0 +1,10 @@
+A1;Disponible;
+B1;Disponible;
+C1;Disponible;
+D1;Ocupado;
+E1;Disponible;
+F1;Disponible;
+G1;Disponible;
+H1;Ocupado;
+I1;Disponible;
+J1;Disponible;

@@ -1,0 +1,18 @@
+Codigo;Nombre
+1;Usuario
+11;Crear Usuario
+12;Modificar Usuario
+13;Eliminar Usuario
+14;Accesos
+2;Cliente
+21;Crear Cliente
+22;Modificar Cliente
+23;Eliminar Cliente
+3;Hotel
+31;Crear Productos
+32;Modificar Productos
+33;Eliminar Productos
+4;Proveedores
+41;Crear Proveedores
+42;Modificar Proveedores
+43;Eliminar Proveedores

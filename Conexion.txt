@@ -1,0 +1,2 @@
+Localizacion;BaseDatos;Usuario;Clave;
+localhost;casa_alemania;root;123;

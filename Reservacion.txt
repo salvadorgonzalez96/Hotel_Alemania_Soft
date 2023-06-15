@@ -1,0 +1,3 @@
+Sencilla;400;
+Doble;750;
+Triple;1080;
